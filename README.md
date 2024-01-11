@@ -16,7 +16,7 @@
 |Collaboration| Git |
 >
 ### 보유 자격증
-> Adsp ( 데이터 분석 준전문가 ) <br>
+> ADsP ( 데이터 분석 준전문가 ) <br>
 > SQLD ( SQL 개발자 ) <br>
 
 </br>
