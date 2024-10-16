@@ -6,6 +6,7 @@
   height="300"
 />
 </a>
+</br>
 >Java & Python 기반 백엔드 개발자
 
 </br>
