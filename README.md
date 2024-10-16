@@ -1,4 +1,11 @@
 # 김연지 포트폴리오
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yjkim9497"
+  width="600"
+  height="300"
+/>
+</a>
 >Java & Python 기반 백엔드 개발자
 
 </br>
