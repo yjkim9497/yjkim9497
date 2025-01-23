@@ -17,6 +17,8 @@
 |Collaboration| Git |
 >
 ### 보유 자격증
+> 정보처리기사 <br>
+> 빅데이터분석기사 <br>
 > ADsP ( 데이터 분석 준전문가 ) <br>
 > SQLD ( SQL 개발자 ) <br>
 
@@ -24,7 +26,6 @@
 
 ## : Contact : 연락처
 - 이메일: yj009977@hanmail.net
-- 블로그: https://blog.naver.com/rladuswl54
 - Github: https://github.com/yjkim9497
 
 </br>
